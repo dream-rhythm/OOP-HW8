@@ -7,6 +7,6 @@ public class Psyduck extends Pokemon{
 	}
 
 	public void attack(){
-		System.out.println("\"Ember…\"");
+		System.out.println("\"Aqua Tail…\"");
 	}
 }

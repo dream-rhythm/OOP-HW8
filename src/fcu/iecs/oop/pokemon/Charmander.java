@@ -7,6 +7,6 @@ public class Charmander extends Pokemon{
 		// TODO Auto-generated constructor stub
 	}
 	public void attack(){
-		System.out.println("\"Aqua Tail…\"");
+		System.out.println("\"Ember…\"");
 	}
 }
